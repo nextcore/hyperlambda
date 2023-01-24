@@ -1,2 +1,2 @@
 # hyperlambda
-Prebuild hyperlambda for easy development
+Prebuild hyperlambda for easy deployment
